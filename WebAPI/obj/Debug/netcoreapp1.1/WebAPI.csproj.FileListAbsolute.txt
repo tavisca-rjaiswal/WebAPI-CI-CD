@@ -1,0 +1,11 @@
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp1.1\WebAPI.deps.json
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp1.1\WebAPI.runtimeconfig.json
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp1.1\WebAPI.runtimeconfig.dev.json
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp1.1\WebAPI.dll
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp1.1\WebAPI.pdb
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp1.1\WebAPI.csprojResolveAssemblyReference.cache
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp1.1\WebAPI.csproj.CoreCompileInputs.cache
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp1.1\WebAPI.AssemblyInfoInputs.cache
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp1.1\WebAPI.AssemblyInfo.cs
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp1.1\WebAPI.dll
+c:\users\rjaiswal\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp1.1\WebAPI.pdb

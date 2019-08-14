@@ -1,0 +1,16 @@
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.deps.json
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.runtimeconfig.json
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.runtimeconfig.dev.json
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.dll
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\WebAPITest.pdb
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\WebAPI.dll
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\bin\Debug\netcoreapp2.2\WebAPI.pdb
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.csprojResolveAssemblyReference.cache
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.csproj.CoreCompileInputs.cache
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.AssemblyInfoInputs.cache
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.AssemblyInfo.cs
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.dll
+c:\Users\rjaiswal\source\repos\WebAPI\WebAPITest\obj\Debug\netcoreapp2.2\WebAPITest.pdb
